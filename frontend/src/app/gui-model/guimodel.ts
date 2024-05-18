@@ -129,7 +129,7 @@ export class GuiModel {
                             "type": "list",
                             "name": "ToDo",
                             "icon": "fa-user",
-                            "color": "wet-asphalt",
+                            "color": "red",
                             "search": true,
                             "url": "/todo",
                             "form": {
